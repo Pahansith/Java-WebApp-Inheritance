@@ -128,7 +128,7 @@
                             <outputDirectory>${parent.webapp.extract.location}/WEB-INF/app</outputDirectory>
                             <resources>
                                 <resource>
-                                    <directory>${project.basedir}/src/main/webapp/pages</directory>
+                                    <directory>${project.basedir}/src/main/webapp/includes</directory>
                                     <includes>
                                         <include>*.*</include>
                                     </includes>

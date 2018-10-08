@@ -7,5 +7,5 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <div>
-    <h1>CHILD HEADER</h1>
+    <h1>Child Header</h1>
 </div>
