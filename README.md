@@ -6,6 +6,6 @@ Developr can use the parent-web-app as a template and create new web application
 
 When creating a child-web-app, user can add jsp page segments to replace the default segments in the parent web-app, also full jsp pages to replace default jsp's in parent web app. And user can add new jsp files that parent project has not included.
 
-Also user can replace servlet classes of the parent by adding new classes that has the same name as parent and add new classes to perform new functions.
+Also user can override servlet classes of the parent by adding new classes that has the same name as parent and add new classes to perform new functions.
 
 And user is able to override the default deployment descriptor located in the parent app by providing new deployment descriptor.
