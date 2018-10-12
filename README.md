@@ -1,6 +1,6 @@
 # Java Web Application Inheritance Demo
 
-Architectural demonstration of inheritance between Java web applications using Apache Maven
+An architectural demonstration of inheritance between Java web applications using Apache Maven
 
 Developr can use the parent-web-app as a template and create new web applications while modifying and adding new functionalities to the parent web app. Using the parent-webapp as a maven dependency, developer can create customized, independently deployable child web applications without duplicating the code in the parent web-app.
 
